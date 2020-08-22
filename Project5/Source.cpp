@@ -36,5 +36,13 @@ int main()
 		break;
 	}
 
+	//branch 1
+	if (num1 > num2)
+	{
+		cout << "num1 is maximum" << endl;
+	}
+	else
+		cout << "num2 is maximum" << endl;
+
 	return 0;
 }
