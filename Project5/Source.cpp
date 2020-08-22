@@ -36,5 +36,12 @@ int main()
 		break;
 	}
 
+	//branch 2
+	if (num1 < num2)
+	{
+		cout << "num1 is minimum" << endl;
+	}
+	else
+		cout << "num2 is minimum" << endl;
 	return 0;
 }
