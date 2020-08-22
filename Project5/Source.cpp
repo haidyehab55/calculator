@@ -1,6 +1,11 @@
 # include <iostream>
 using namespace std;
 
+class add
+{
+	int x, y,z;
+	z = x + y;
+};
 int main()
 {
 	char op;
